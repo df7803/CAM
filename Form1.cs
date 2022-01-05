@@ -231,3 +231,13 @@ namespace ClosedXML.Excel
         }
     }
 }
+
+
+/*Clique na opção Ferramentas na barra de menu superior
+Expanda a opção Gerenciador de Pacotes NuGet
+Clique em Console do gerenciador de pacotes
+Você verá o console aberto na parte inferior da janela principal do Visual Studio
+Na linha de comando PM> , digite:
+Install-Package ClosedXML
+As DLLs ClosedXML e DocumentFormat.OpenXML agora devem estar instaladas em seu sistema e também devem estar disponíveis na pasta Bin de seu projeto. Para uma portabilidade rápida, as DLLs na pasta Bin do seu projeto são a opção certa.
+Agora você deve ser capaz de importar e codificar sua página usando a biblioteca ClosedXML . Quando terminar, você também desejará disponibilizar a biblioteca ClosedXML em seu servidor Web de produção*/
